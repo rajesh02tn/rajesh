@@ -25,7 +25,7 @@ public class List {
 		 alist.set(0, 55);
 		System.out.println(alist);
 		
-		
+		System.out.println("****************");
 		
 		//iterator
 		Iterator<Integer> iterator = alist.iterator();
